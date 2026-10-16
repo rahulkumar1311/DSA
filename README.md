@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahulkumar1311/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rahulkumar1311/DSA/tree/master/0088-merge-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulkumar1311/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulkumar1311/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahulkumar1311/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rahulkumar1311/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
