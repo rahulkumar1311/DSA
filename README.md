@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rahulkumar1311/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rahulkumar1311/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rahulkumar1311/DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulkumar1311/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/rahulkumar1311/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulkumar1311/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulkumar1311/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rahulkumar1311/DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulkumar1311/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulkumar1311/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulkumar1311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulkumar1311/DSA/tree/master/3886-sum-of-sortable-integers) |
